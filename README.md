@@ -144,6 +144,15 @@ SlayTheSpire2-DeckTracker/
 | Export failing | Check disk space, ensure runs/ folder is not read-only |
 | Conflicting with other mods | Load DeckTracker last, or use standalone mode |
 
+## Keywords
+
+slay the spire 2 deck tracker, slay the spire 2 overlay 2026,
+sts2 run analyzer, slay the spire 2 draw probability,
+slay the spire 2 best tools, sts2 statistics dashboard,
+slay the spire 2 card advisor, slay the spire 2 relic synergy,
+slay the spire 2 run logger, sts2 boss analyzer,
+slay the spire 2 ascension tracker, slay the spire 2 companion app,
+best tools slay the spire 2 2026, sts2 run replay viewer
 ---
 
 ## License
