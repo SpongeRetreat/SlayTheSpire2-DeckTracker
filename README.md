@@ -1,6 +1,6 @@
 
 
-# 🎴 Slay the Spire 2 Deck Tracker & Run Analyzer 2026
+# 🎴 Slay the Spire 2 Deck Tracker & Run Analyzer 2026 🎴
 
 [![GitHub Stars](https://img.shields.io/github/stars/Alexantros341/SlayTheSpire2-DeckTracker)](https://github.com/Alexantros341/SlayTheSpire2-DeckTracker)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
